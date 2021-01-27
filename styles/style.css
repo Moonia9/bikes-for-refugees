@@ -30,12 +30,31 @@ button {
 	color: #292b2c;
 	font-weight: 600;
 	text-transform: uppercase;
+	
+}
+/*  Challenge: can you make the navigation links orange on hover? */
 
-	/*  Challenge: can you make the navigation links orange on hover? */
+.nav-link {
+	margin: 20px;
+	padding: 10px;
+}
+
+
+
+.navbar-light:hover {
+	color:#ce5f31;
 }
 
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
+
+#volunteer-button {
+	color :#ce5f31;
+}
+
+.trying-out-hover:hover {
+	background:#ce5f31;
+}
 
 
 /* Alert */
