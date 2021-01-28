@@ -39,6 +39,9 @@ button {
 	padding: 10px;
 }
 
+#navbarSupportedContent{
+	background-color: cadetblue;
+}
 
 
 .navbar-light:hover {
