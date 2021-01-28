@@ -48,13 +48,21 @@ button {
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
 
-#volunteer-button {
+.volunteer-button {
 	color :#ce5f31;
 }
+
+.volunteer-button:hover {
+	background: azure;
+}
+
 
 .trying-out-hover:hover {
 	background:#ce5f31;
 }
+
+
+
 
 
 /* Alert */
