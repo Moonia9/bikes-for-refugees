@@ -174,3 +174,26 @@ button {
 	   max-height: 80px;
 	}
 }
+
+/*Media Queries_Class*/
+
+
+ @media only screen and (max-width: 320px){
+    .jumbotron h1 {
+		font-size: 1rem;
+
+	}
+
+ }
+
+ @media only screen (max-width: 320px) {
+	 .trying-out-hover {
+		 font-size: 50%;
+	 }
+
+	 .volunteer-button {
+		 font-size: 50%;
+	 }
+
+	 }
+ }
