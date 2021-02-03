@@ -195,8 +195,17 @@ button {
 		 font-size: 50%;
 	 }
 
-	 
  }
+
+
+ @media (min-width : 1000px) and (orientation: landscape) {
+	 body {
+		 font-size: 20px;
+	 }
+ }
+
+
+
 
 
  /*FlexBox*/
