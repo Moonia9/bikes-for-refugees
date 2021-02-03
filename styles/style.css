@@ -197,3 +197,19 @@ button {
 
 	 }
  }
+
+
+ /*FlexBox*/
+
+   .box div {
+	background-color: #eceeef;
+	padding: 20px;
+	font-size: 20px;
+	border : 5px solid black;
+ }
+
+   .box {
+	display: flex;
+	justify-content: space-between;
+    flex-direction: row;
+ }
